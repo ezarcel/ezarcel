@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there! My name is Adam, nice to meet you 😁
+## Basic info
+Sex: Male  
+Nationality: Spanish  
+I live in: Catalonia, Spain 🇪🇸  
+I would like to live in: Canada 🇨🇦 / USA 🇺🇸  
+I speak: English, Catalan & Spanish  
+Age: Not 18 yet  
+Looking for collaboration/help? Not now  
 
-<!--
-**ezarcel/ezarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Working on / Learning
+I'm currently focusing my efforts on [Kuzi](https://github.com/ezarcel/kuzi), I'm using this project to learn more HTML, CSS & JavaScript (& NodeJS)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun fact
+Spain is not Mexico
