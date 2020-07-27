@@ -1,5 +1,3 @@
-![](https://img.shields.io/github/followers/ezarcel?style=social)  
-
 Sex: Male  
 Nationality: Spanish  
 I live in: Barcelona, Spain 🇪🇸  
