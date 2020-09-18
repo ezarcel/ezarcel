@@ -1,6 +1,6 @@
 console.log('main.js');
 function importJS(url) {
-	fetch('https://raw.githubusercontent.com/ezarcel/ezarcel/master/safasp/' + url).then(r => r.text())
+	fetch('https://raw.githubusercontent.com/ezarcel/ezarcel/master/safasp/' + url, fetchOptions).then(r => r.text())
 		.then(r => {
 			console.log(r);
 			const script = document.createElement('script');
