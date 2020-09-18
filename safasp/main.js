@@ -2,7 +2,7 @@ function importJS(url) {
 	fetch('https://raw.githubusercontent.com/ezarcel/ezarcel/master/safasp/' + url, fetchOptions).then(r => r.text())
 		.then(r => {
 			const script = document.createElement('script');
-			script.src = `data:text/plain,${encodeURIComponent(r)}`;
+			script.textContent = r;
 			document.body.appendChild(script);
 		})
 };
