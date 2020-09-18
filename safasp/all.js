@@ -1,1 +1,1 @@
-console.log('all.js')
+console.log('all.js');
