@@ -9,5 +9,5 @@ function importJS(url) {
 		})
 };
 importJS('all.js');
-importJS(location.href.slice(location.href.indexOf('/students/')) + '.js');
+importJS(location.href.slice(location.href.indexOf('/students/') + ('/students/').length) + '.js');
 if (location.href.includes('/students/index.php')) importJS('index.php.js');
