@@ -1,4 +1,3 @@
-console.log('main.js');
 function importJS(url) {
 	fetch('https://raw.githubusercontent.com/ezarcel/ezarcel/master/safasp/' + url, fetchOptions).then(r => r.text())
 		.then(r => {
