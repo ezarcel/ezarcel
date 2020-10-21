@@ -1,7 +1,11 @@
+## Basic
 Sex: Male  
-Nationality: Spanish  
-I live in: Barcelona, Spain 🇪🇸  
-I speak: English, Catalan & Spanish  
+Location: BCN, CAT, Spain 🇪🇸  
+Languages: English, Catalan & Spanish  
 Age: 15
 
-I'm currently working on [Kuzi](https://github.com/ezarcel/kuzi), I'm using this project to learn more HTML, CSS, JavaScript & NodeJS
+## Skills
+HTML, CSS, Sass, JavaScript & TypeScript, full-stack
+
+## Active projects
+I'm currently working on [Taiku](https://github.com/ezarcel/taiku), I'm using as an opportunity to learn more TypeScript & Sass
