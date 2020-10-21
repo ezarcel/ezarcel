@@ -8,4 +8,4 @@ Age: 15
 HTML, CSS, Sass, JavaScript & TypeScript, full-stack
 
 ## Active projects
-I'm currently working on <a href="https://github.com/ezarcel/taiku" title="Welcome to the future of learning"></a> , I'm using as an opportunity to learn more TypeScript & Sass
+I'm currently working on <a href="https://github.com/ezarcel/taiku" title="Welcome to the future of learning">Taiku</a> , I'm using as an opportunity to learn more TypeScript & Sass
