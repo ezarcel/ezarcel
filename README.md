@@ -1,12 +1,12 @@
 ## Basic
 Sex: Male  
+Age: 15  
 Pronouns: He/Him  
 Location: BCN, CAT, Spain 🇪🇸  
-Languages: English, Catalan & Spanish  
-Age: 15
+Languages: English, Catalan & Spanish, learning Galician
 
 ## Skills
-HTML, CSS, Sass, JavaScript & TypeScript, full-stack
+HTML, CSS, Sass, JavaScript & TypeScript, full-stack. Learning C++.
 
 ## Active projects
-I'm currently working on <a href="https://github.com/ezarcel/taiku" title="Welcome to the future of learning">Taiku</a>, I'm using as an opportunity to learn more TypeScript & Sass
+I currently don't have any active projects. Always looking for ideas!
