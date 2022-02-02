@@ -1,12 +1,15 @@
-## Basic
-Sex: Male  
-Age: 15  
-Pronouns: He/Him  
-Location: BCN, CAT, Spain 🇪🇸  
-Languages: English, Catalan & Spanish, learning Galician
+Hiii, my name's Adam, I'm 16 years old and I'm from Barcelona, Spain 🇪🇸  
+
+## Languages I speak
+- English (B2+)
+- Catalan (native)
+- Spanish (native)
 
 ## Skills
-HTML, CSS, Sass, JavaScript & TypeScript, full-stack. Learning C++.
+- HTML
+- CSS, SCSS/SASS & Less
+- JavaScript & TypeScript
+- Web Frameworks, namely React and Svelte
 
 ## Active projects
-I currently don't have any active projects. Always looking for ideas!
+I'm actively working on a project I'll publish soon. Stay tuned ;)
